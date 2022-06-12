@@ -1,2 +1,10 @@
-**/*.json
-**/*.yaml
+*.json
+*.yaml
+*.html
+*.ts
+*.tsx
+*.js
+*.jsx
+*.svg
+
+LICENSE
